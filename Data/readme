@@ -1,0 +1,1 @@
+This project uses the dataset from [Mendeley Data](https://data.mendeley.com/datasets/zbf6b4pttk/2), which contains raw label images and ground truth label images of axial view slices of lumbar spine MRI. The dataset is used to train a segmentation model (UNet++) to detect lumbar spinal stenosis.
