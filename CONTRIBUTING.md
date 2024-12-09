@@ -1,6 +1,6 @@
 # CONTRIBUTING
 
-Elo, poniżej instruckja, tak aby było, że jest profesjonalnie
+Elo,
 ---
 
 ## Zasady ogólne
