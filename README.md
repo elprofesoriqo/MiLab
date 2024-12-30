@@ -43,4 +43,4 @@ This collaborative effort combined different strengths and perspectives, resulti
 
 ### Acknowledgments
 
-This project was conducted as part of a collaborative effort within the **MILab** initiative led by Daniel Cieślak. The aim of the case study was to develop segmentation solutions for a dataset available at [Mendeley Data](https://data.mendeley.com/datasets/k57fr854j2/2). 
+This project was conducted as part of a collaborative effort within the **MILab**. The aim of the case study was to develop segmentation solutions for a dataset available at [Mendeley Data](https://data.mendeley.com/datasets/k57fr854j2/2). 
